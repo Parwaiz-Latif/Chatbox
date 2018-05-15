@@ -3,7 +3,7 @@
     padding:0;
 }
 body{
-    background:url(images/banner-bg1.jpg);
+    background:url(../images/banner-bg1.jpg);
 }
 header{
     background-color: rgba(160,160,160,0.4);
