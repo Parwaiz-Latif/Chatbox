@@ -18,12 +18,12 @@ div.container{
     padding-top:20px;
     width:80%;
     height:50px;
-    margin:0 auto;
+    margin:50px auto 0;
     text-align: center;
     
 }
 ul{
-    margin:0 0 0 150px;
+    margin:0 0 0 80px;
     
 }
 li{
@@ -43,9 +43,4 @@ a:hover{
     font-style: italic;
     
 }
-a:active{
-    color:#f0f;
-}
-a:link{
-    color:#f00;
-}
+
